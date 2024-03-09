@@ -1,0 +1,20 @@
+{
+  "name": "fake-agent-random",
+  "version": "1.0.0",
+  "description": "fake userAgent generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennode048/fake-agent.git"
+  },
+  "author": "kennode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kennode048/fake-agent/issues"
+  },
+  "homepage": "https://github.com/kennode048/fake-agent.git#readme"
+}
